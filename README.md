@@ -68,4 +68,3 @@ The analyzed emails exhibited several characteristics commonly associated with p
 **Yashada Dure**
 
 Cyber Security Intern | BCA Student | Aspiring Cybersecurity Professional
-# Phishing Email Analysis
